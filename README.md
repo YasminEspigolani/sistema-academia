@@ -51,7 +51,3 @@ javac br/com/starvip/academia/*.java br/com/starvip/main/Main.java
 java br.com.starvip.main.Main
 
 ```
-
-```
-
-```
