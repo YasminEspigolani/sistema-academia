@@ -1,5 +1,4 @@
 # Gerenciador de Academia - StarVIP 🏋️‍♂️
-```markdown
 
 Um sistema desenvolvido em Java para simular a gestão diária de uma academia de ginástica. O projeto aplica os conceitos fundamentais de Programação Orientada a Objetos (POO) para modelar as interações entre os funcionários, a infraestrutura e as atividades oferecidas aos alunos.
 
